@@ -430,3 +430,10 @@ If you find this resource helpful, please consider starring this repository.
 - [Financemath: Knowledge-intensive math reasoning in finance domains](https://aclanthology.org/2024.acl-long.693/) [ACL 2024]
 - [Evaluating llms' mathematical reasoning in financial document question answering](https://aclanthology.org/2024.findings-acl.231/) [ACL 2024]
 - [Soargraph: Numerical reasoning over financial table-text data via semantic-oriented hierarchical graphs](https://dl.acm.org/doi/abs/10.1145/3543873.3587598) [WWW 2023]
+
+## Contact:
+If you have any questions or suggestions, feel free to contact our team:
+- Mingyue Cheng (mycheng@ustc.edu.cn)
+- Qinyang Mao (maoqy0503@mail.ustc.edu.cn)
+
+
