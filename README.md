@@ -1,4 +1,23 @@
-# Awesome-LLM-Table-Mining
+
+<div align="center">
+  <h2><b> A Survey on Table Mining with Large Language Models: Challenges, Advancements and Prospects (Preprint, ArXiv 2025) </b></h2>
+</div>
+<div align="center">
+
+![](https://img.shields.io/github/last-commit/USTCAGI/Awesome-LLM-Table-Mining?color=green)
+![](https://img.shields.io/github/stars/USTCAGI/Awesome-LLM-Table-Mining?color=yellow)
+![](https://img.shields.io/github/forks/USTCAGI/Awesome-LLM-Table-Mining?color=lightblue)
+![](https://img.shields.io/badge/PRs-Welcome-green)
+
+</div>
+
+
+> 🙋 Please let us know if you notice any mistakes or have any suggestions!
+If you find this resource helpful, please consider starring this repository.
+
+## Updates/News:
+
+🚩 **News** (Mar. 2025): We have created this repository.
 
 ## Datasets and Benchmarks
 
